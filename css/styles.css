@@ -1,0 +1,19 @@
+body {
+    background-color: #FAD9E6;
+    font-family: "Sofia";
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #E4AEC5;
+    border-width: 5px;
+    width: 3%;
+}
+
+h1 {
+    color: #E4AEC5;
+}
+
+h3 {
+    color: #E4AEC5;
+}
